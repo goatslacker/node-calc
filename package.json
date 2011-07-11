@@ -1,0 +1,21 @@
+{
+  "name": "calc",
+  "author": "Josh Perez <josh@goatslacker.com>",
+  "version": "0.0.1",
+  "description": "Simple cmd line calculator",
+
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/goatslacker/node-calc.git"
+  },
+
+  "licenses": ["None"],
+
+  "bin": { 
+    "nms": "./bin/calc"
+  },
+
+  "engines": {
+    "node": ">= 0.0.1"
+  }
+}
