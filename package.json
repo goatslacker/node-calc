@@ -9,10 +9,16 @@
     "url": "https://github.com/goatslacker/node-calc.git"
   },
 
+  "keywords": [
+    "math",
+    "calculator",
+    "arithmetic"
+  ],
+
   "licenses": ["None"],
 
   "bin": { 
-    "nms": "./bin/calc"
+    "calc": "./bin/calc"
   },
 
   "engines": {
